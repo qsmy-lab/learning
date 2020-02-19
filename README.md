@@ -9,3 +9,8 @@ test
 
 2222222
 3333333333
+666666666666
+
+1.   到解决方案根目录下：git add .                  ("."是必须要的)
+2.   git commit -m "some word"
+3.   git push -u origin master 
